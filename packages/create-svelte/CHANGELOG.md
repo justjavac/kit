@@ -1,5 +1,11 @@
 # create-svelte
 
+## 5.0.2
+
+### Patch Changes
+
+- chore: upgrade vitest ([#10236](https://github.com/sveltejs/kit/pull/10236))
+
 ## 5.0.1
 
 ### Patch Changes
